@@ -12,3 +12,5 @@ C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.exe
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.pdb
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.InitialModel.resources
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.csproj.GenerateResource.cache
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddCategoriesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddCategoryColumnToCoursesTable.resources
