@@ -14,3 +14,8 @@ C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.csproj.GenerateResource.cache
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddCategoriesTable.resources
 C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddCategoryColumnToCoursesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddDatePublishColumnToCoursesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.RenameTitleToNameInCoursesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.DeleteDatePublishFromCoursesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.DeleteCategoryColumnFromCoursesTable.resources
+C:\Users\Cassius\Desktop\GitHubRepo\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.DeleteCategoriesTable.resources
